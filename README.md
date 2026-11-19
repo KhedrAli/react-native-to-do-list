@@ -1,4 +1,4 @@
-# ✅ ToDoList99
+# ✅ React Native To-Do List
 
 A local-first task management mobile application built with **React Native**, **Expo**, and **TypeScript**, designed for fast daily task organization, instant offline persistence, and smooth **RTL (Arabic)** and **LTR (English)** support.
 
@@ -28,7 +28,7 @@ A local-first task management mobile application built with **React Native**, **
 ## 📂 Project Structure
 
 ```text
-ToDoList/
+react-native-to-do-list/
 ├── App.tsx
 ├── app.json
 ├── eas.json
@@ -41,6 +41,3 @@ ToDoList/
     ├── screens/        # TasksScreen, ProgressScreen, AnalyticsScreen, SettingsScreen
     ├── types/          # task.ts
     └── utils/          # dateFormat.ts, recurrence.ts, safeAreaGuard.ts, storage.ts
-
-
-Developed by Khedr Ali (@KhedrAli)
